@@ -1,0 +1,44 @@
+ [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/JmW3gTn/service1.jpg",
+      "name": "Event Planning and Management",
+      "price": 249.99,
+      "description": "Event planning and management is a comprehensive process that encompasses the strategic, logistical, and creative aspects of organizing and executing successful events, ranging from corporate conferences and seminars to weddings, trade shows, and music festivals. This multifaceted discipline involves meticulous planning, efficient execution, and a keen eye for detail to ensure that an event unfolds seamlessly and leaves a lasting impression on attendees."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/wh1pJt3/service2.jpg",
+      "name": "Registration and Ticketing",
+      "price": 199.99,
+      "description": "Registration and ticketing services are fundamental components of organizing successful conferences, seminars, and a wide range of events. These services encompass a comprehensive suite of tools and processes designed to facilitate attendee registration, ticketing, and payment management, ensuring that events run smoothly and efficiently. The process of registration and ticketing is a critical element in the overall event planning and management, impacting the attendee experience, event revenue, and the organizer's ability to gather data and insights."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/qR0f27q/service3.jpg",
+      "name": "Marketing and Promotion",
+      "price": 149.99,
+      "description": "Marketing and promotion are pivotal components of any successful business strategy, playing a fundamental role in reaching and engaging with the target audience. These interconnected disciplines are a dynamic and ever-evolving field that encompasses a wide array of strategies, tools, and techniques. In this comprehensive overview, we'll delve into the intricate world of marketing and promotion, exploring their significance, key elements, and the dynamic landscape they operate within."
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/FwWdtXZ/service4.jpg",
+      "name": "Audiovisual and Technical Support",
+      "price": 179.99,
+      "description": "Audiovisual and Technical Support is a crucial facet of conference and seminar organization, playing a pivotal role in ensuring the success of such events. This service category encompasses a wide range of services and equipment necessary to facilitate smooth and engaging presentations, sessions, and interactions during the event."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/JkdsHdx/service5.jpg",
+      "name": "Speaker and Content Management",
+      "price": 269.99,
+      "description": "Speaker and Content Management is a crucial component of conference and seminar organization, focused on curating, coordinating, and optimizing the content and speakers featured during an event. This multifaceted service is essential to ensure that the event's content aligns with its goals, captivates the audience, and offers a rich and engaging experience for attendees."
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/hBPZFP6/service6.jpg",
+      "name": "Networking and Engagement",
+      "price": 149.99,
+      "description": "Networking and Engagement in the context of conference and seminar organization is a crucial and multifaceted category of services that aims to foster meaningful connections and interactions among attendees while enhancing their overall event experience. This aspect plays a vital role in ensuring that conferences and seminars not only provide valuable content but also create a conducive environment for building relationships, sharing knowledge, and expanding professional networks."
+    }
+  ]

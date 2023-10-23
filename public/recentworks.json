@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "event_img": "https://i.ibb.co/hR5fmGd/work1.jpg",
+      "event_name": "Tech Innovators Summit",
+      "short_description": "Join thought leaders and innovators in the tech industry for a day of networking and knowledge sharing.",
+      "held_date": "15 Jan 2023"
+    },
+    {
+      "id": 2,
+      "event_img": "https://i.ibb.co/dQG0kWy/work2.jpg",
+      "event_name": "Digital Marketing Masterclass",
+      "short_description": "Learn the latest digital marketing strategies from experts in the field at this one-day seminar.",
+      "held_date": "15 Jun 2023"
+    },
+    {
+      "id": 3,
+      "event_img": "https://i.ibb.co/ch4rwqM/work3.jpg",
+      "event_name": "Green Energy Forum",
+      "short_description": "Discuss the future of renewable energy and sustainability with industry professionals.",
+      "held_date": "25 Oct 2022"
+    },
+    {
+      "id": 4,
+      "event_img": "https://i.ibb.co/f1TSBRk/work4.jpg",
+      "event_name": "Leadership Excellence Seminar",
+      "short_description": "Enhance your leadership skills and inspire your team with insights from leadership experts.",
+      "held_date": "10 Aug 2023"
+    }
+  ]
+  
